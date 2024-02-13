@@ -8,4 +8,4 @@ Hibernate: select employee0_.id as id1_0_0_, employee0_.name as name2_0_0_, empl
 
 1 Bhaskar 80000
 
-If you see Hibernate didn't fired query for 2nd result because if cache magic
+If you see Hibernate didn't fired query for 2nd result because of cache magic
